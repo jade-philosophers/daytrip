@@ -9,8 +9,7 @@ EXPOSE 8000
 ENTRYPOINT ["mongod"]
 # ENTRYPOINT []
 CMD git remote add upstream 
-CMD git fetch --all
-CMD git reset --hard origin/master
+CMD git pull upstream master
 CMD cd into folder
 CMD npm install
 CMD npm build
