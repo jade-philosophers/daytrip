@@ -1,12 +1,12 @@
 # Project Name
 
-> A day trips app built in react using node, express, and mongo.
+> Day Trip - A web application that allows users to plan visual trips and share them with others. Created with React.js, Node.js, Express.js, and MongoDB.
 
 ## Team
 
-  - __Product Owner__: Richard Hertzog
-  - __Scrum Master__: Aloak Misra
-  - __Development Team Members__: Zach Lipps
+  - __Product Owner__: Felix Tran
+  - __Scrum Master__: Eric Chen
+  - __Development Team Members__: Patrick Xie, Jaime Pericas
 
 ## Table of Contents
 
@@ -20,13 +20,13 @@
 
 ## Usage
 
-> Once hosted users can login to create trip lists associated with places on google maps. Fun day trip plans can be ranked by other users who can use them as a reference for themselves or make trips of their own.
+> Users can login to create trip lists associated with places on google maps. Fun day trip plans can be ranked by other users who can use them as a reference for themselves or make trips of their own.
 
 ## Requirements
 
-- Node 6.2.1
-- Express 4.15.2
-- Mongo 3.4.2
+- Node.js 6.2.1
+- Express.js 4.15.2
+- MongoDB 3.4.2
 
 ## Development
 
