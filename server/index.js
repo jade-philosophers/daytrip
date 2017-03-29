@@ -10,7 +10,7 @@ const app = express();
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost:core/core');
 
-app.use(express.static(__dirname + '/../build'))
+//app.use(express.static(__dirname + '/../build'))
 app.use(morgan('combined'));
 app.use(bodyParser.json());
 app.use(cors());
